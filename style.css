@@ -139,9 +139,11 @@ header ul a li:hover{
   color: var(--white);
 }
 .hero .image{
-  width: 80%;
+  width: 100%;
 }
-
+.hero .image img{
+   width:75%;
+}
 /*mail*/
 
 .mail h3{
