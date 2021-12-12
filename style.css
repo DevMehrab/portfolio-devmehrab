@@ -139,7 +139,7 @@ header ul a li:hover{
   color: var(--white);
 }
 .hero .image{
-  width: 100%;
+  width: 80%;
 }
 
 /*mail*/
