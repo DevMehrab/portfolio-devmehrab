@@ -143,6 +143,9 @@ header ul a li:hover{
 }
 .hero .image{
   width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .hero .image img{
    width:60%;
